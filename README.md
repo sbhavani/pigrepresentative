@@ -61,7 +61,7 @@ Visit http://localhost:3000
 npm run build
 ```
 
-The build output is in the `.next` directory.
+The build output is in the `out` directory.
 
 ## Deployment
 
@@ -70,7 +70,7 @@ The build output is in the `.next` directory.
 2. Connect to GitHub and select this repo
 3. Configure:
    - Build command: `npm run build`
-   - Build output directory: `.next`
+   - Build output directory: `out`
 4. Deploy!
 
 ### Vercel
