@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
   },
   // Cloudflare Pages doesn't support some Next.js features
   trailingSlash: true,
+  outputFileTracingRoot: "/Volumes/SSD-PGU3/code/pigrepresentative",
 };
 
 export default nextConfig;
